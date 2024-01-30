@@ -9,5 +9,5 @@
 | fliki |	doesnt allow you to donwload, reviews are good and allows you to clone your voice, haven't used it so don't know yet |	yes	| $28 |	yes |
 | listnr.ai | voice clonning of your own voice available but with subcription, haven't used it so don't know yet |	yes | $9 | yes |
 | Designs.ai | doesnt have facility to clone your own voices, normal software not specialized in voice cloning, use this only when other are not chosen, doesn't feel trustable|	no| $29 | no |
-| Clipchamp | text to speechvoice over availble through AI speakers, not as helpful as the first 5 listed softwares |	no | 899rs | no |
-| Filmora | doesnt have facillity to generate text to speech audio, not a useful software| 	no | 
+| Clipchamp | text to speech voice over availble through AI speakers, not as helpful as the first 5 listed softwares |	no | 899rs | no |
+
